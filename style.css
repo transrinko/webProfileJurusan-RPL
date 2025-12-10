@@ -198,6 +198,26 @@ mark{
   color: rgb(255, 255, 255);
   margin-bottom: 10px;
 }
+.info-header-gallery {
+  padding: 6% 12%;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('https://smkaw2.sch.id/themes/template3/images/head.jpg') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-bottom: -90px;
+}
+.info-header-contact {
+  padding: 6% 12%;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('https://smkaw2.sch.id/themes/template3/images/head.jpg') no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  margin-bottom: -99px;
+}
 .info-header h1 {
   font-size: 32px;
   margin-bottom: 15px;
